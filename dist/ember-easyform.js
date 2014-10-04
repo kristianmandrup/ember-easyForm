@@ -2,6 +2,8 @@
 
 
 (function() {
+  console.log('Ember.EasyForm 0.3.0 is loaded')
+
   Ember.EasyForm = Ember.Namespace.create({
     VERSION: '0.3.0'
   });
