@@ -27,6 +27,16 @@ You can now reference it directly from a HTML file via a `<script>` tag
 
 `<script src="bower_components/ember-easyform/dist/ember-easyform.js">`
 
+
+### Test it works
+
+In your Browser console:
+
+```bash
+> Ember.EasyForm.VERSION`
+"1.0.0.beta.1"
+```
+
 # Ember EasyForm #
 
 [![Build Status](https://secure.travis-ci.org/dockyard/ember-easyForm.png?branch=master)](http://travis-ci.org/dockyard/ember-easyForm)
