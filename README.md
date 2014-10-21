@@ -4,7 +4,7 @@ Ember EasyForm for use with Ember via Bower
 
 Can be used with [ember-validations](https://github.com/kristianmandrup/ember-validations)
 
-The distribution: 
+The distribution:
 
 `dist/ember-easyform.js` - *Browserified* distribution of [dockyard](https://github.com/dockyard/ember-easyForm) repo.
 
@@ -16,15 +16,14 @@ First install via Bower. In your `bower.json` file insert this entry for `"devDe
 ```json
 {
   "devDependencies": {
-    // others ...
-    "ember-easyform": "git://github.com/kristianmandrup/ember-ember-easyForm.git#master"
+    "ember-easyform": "git://github.com/kristianmandrup/ember-easyForm.git#master"
   }
 }
 ```
 
 Run `bower install`
 
-You can now reference it directly from a HTML file via a `<script>` tag 
+You can now reference it directly from a HTML file via a `<script>` tag
 
 `<script src="bower_components/ember-easyform/dist/ember-easyform.js">`
 
